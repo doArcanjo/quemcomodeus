@@ -6,20 +6,20 @@
 
 [[redirects]]
   from = "/inscricao"
-  to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
+  to = "https://goo.gl/forms/ZuV2aoFWjOBmRIuZ2"
   status = 302
   
 [[redirects]]
   from = "/inscrever"
-  to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
+  to = "https://goo.gl/forms/ZuV2aoFWjOBmRIuZ2"
   status = 302
 
 [[redirects]]
   from = "/*"
-  to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
+  to = "https://goo.gl/forms/ZuV2aoFWjOBmRIuZ2"
   status = 302
   
 [[redirects]]
   from = "/"
-  to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
+  to = "https://goo.gl/forms/ZuV2aoFWjOBmRIuZ2"
   status = 302  
